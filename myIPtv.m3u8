@@ -76,11 +76,11 @@ https://28373.live.streamtheworld.com/CAPITAL958FMAAC.aac
 #EXTINF:-1 group-title="radio" tvg-id="963" tvg-name="963" tvg-logo="https://github.com/jacurtwong/siaranMy/blob/main/logo/963.png?raw=true",963
 https://22283.live.streamtheworld.com/HAO_963AAC.aac
 
+#EXTINF:-1 group-title="radio" tvg-id="POWER98" tvg-name="POWER98" tvg-logo="https://github.com/jacurtwong/siaranMy/blob/main/logo/power98.png?raw=true",POWER98
+https://28153.live.streamtheworld.com/POWER98_LOVESONGS_SC
+
 #EXTINF:-1 group-title="radio" tvg-id="Eight FM" tvg-name="8 Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/8Fm.png",8Fm 
 https://mifntechnology.github.io/siaranMy/radio/8Fm/playlist.m3u8
-
-#EXTINF:-1 group-title="radio" tvg-id="Power98" tvg-name="Power98" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/power98.png",Power98 
-https://28153.live.streamtheworld.com/POWER98_LOVESONGS_SC
 
 #EXTINF:-1 group-title="radio" tvg-id="Hot FM" tvg-name="Hot Fm" tvg-logo="https://mifntechnology.github.io/siaranMy/logo/HotFm.png",Hot Fm
 https://mifntechnology.github.io/siaranMy/radio/HotFm/playlist.m3u8
